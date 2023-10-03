@@ -1,7 +1,7 @@
 # Dart_Projects
-This is my dart project folder. It has many question and solutions.
-**Assignment 1**
------ Question -----
+This is my dart project folder. It has many question and solutions.<br> <br>
+**Assignment 1**<br><br>
+----- Questions -----
 1. Write program to input height and width of a rectangle and calculate the perimeter and area of a rectangle.
 2. Write a program to calculate the area and perimeter of a circle.
 3. Write a program to convert specified days into years, weeks and days.
